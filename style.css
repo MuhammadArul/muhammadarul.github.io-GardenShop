@@ -1,0 +1,56 @@
+body {
+    min-height: 1000px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+}
+
+.navbar-nav {
+    font-family: sans-serif;
+
+}
+
+.jumbotron {
+
+    background-color: #8cda69;
+    padding: 15rem 4rem;
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 4.5rem;
+}
+
+p {
+    color: aliceblue;
+    font-size: 1.2rem;
+    font-weight: 200;
+}
+
+.btn {
+    width: 150px;
+    border-radius: 15px;
+    background-color: #5aa639;
+    color: white;
+}
+
+#Products {
+    background-color: #78cf53;
+    font-family: sans-serif;
+    color: aliceblue;
+    padding-bottom: 2rem;
+}
+
+.card .btn {
+    margin-left: 3.5rem;
+}
+
+footer {
+    background-color: #8cda69;
+}
